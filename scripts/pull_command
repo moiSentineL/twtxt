@@ -1,0 +1,4 @@
+# TWTDIR="/home/nibir/Documents/twtxt"
+
+# cd $TWTDIR
+git pull origin main
