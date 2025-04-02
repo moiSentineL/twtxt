@@ -6,3 +6,4 @@
 2025-04-02T16:37:51+05:30	shit takes a lot of tries huh
 2025-04-02T16:47:59+05:30	okay, so I am working on WEEK 4 of [Intro to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) and this stuff is getting wild! Really excited to go up the ladder!
 2025-04-02T18:45:38+05:30	it's crazy that it material conditional, a false antecedent always results in a true conditional, regardless of the consequent.
+2025-04-02T20:29:58+05:30	i am showing twtxt to my friend
