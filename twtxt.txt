@@ -1,2 +1,6 @@
 2025-04-02T16:02:51+05:30	damn this is fun!
 2025-04-02T16:29:42+05:30	welp, added some scripts to push and pull. let's see if they work
+2025-04-02T16:33:29+05:30	they didn't work then, but now they do
+2025-04-02T16:35:07+05:30	need more testing perhaps. i am new to this lol
+2025-04-02T16:36:36+05:30	turns out that my config was fucked
+2025-04-02T16:37:51+05:30	shit takes a lot of tries huh
